@@ -1,0 +1,16 @@
+ls
+ls -a
+ls -l
+ls desktop/
+ls -la
+lsb -release -a
+mkdir directory name
+cd
+cat
+echo
+whoami
+sudoers
+rm files
+rm -d
+cp
+
